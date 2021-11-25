@@ -27,6 +27,7 @@ numbers. The switch has condition “ch” so the entered operator is matched wi
 The ultimate strength Calculators is its innovative,user-friendly and long
 lasting etc..    
 
+
 **WEAKNESSES**  
 
 do not inlude all the operations rather have onlty addition,subtraction
