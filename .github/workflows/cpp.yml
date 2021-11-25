@@ -3,6 +3,7 @@ name: Static Code Quality- Cppcheck
 on:
   push:
     branches: [ main ]
+    
   
 
 jobs:
